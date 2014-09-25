@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <title>Marketing por Email</title>
+        <link>http://marketing-por.email/rss/index.xml</link>
+        <description>Fique atualizado com ótimas recomendações de artigos sobre e-mail marketing</description>
+        
+        <item>
+            <title>E-mail marketing: como reengajar clientes inativos</title>
+            <link>http://www.proxxima.com.br/home/conectados/2014/09/15/E-mail-marketing--como-reengajar-clientes-inativos.html</link>
+            <img>http://marketing-por.email/img/artigos/proxxima-reengajar.jpg</img>
+            <author>Proxxima</author>
+            <description>Os profissionais de email marketing que não tentam resgatar seus usuários inativos ou param de enviar emails rapidamente para esses usuários, aparentemente estão excluindo assinantes valiosos de seus mailings</description>
+            <pubDate>Sep 25, 2014 8:00:00 AM</pubDate>
+        </item>
+        
+        <item>
+            <title>A evolução das práticas de Email Marketing (da Newsletter à Automação de Marketing)</title>
+            <link>http://resultadosdigitais.com.br/blog/a-evolucao-das-praticas-de-email-marketing-da-newsletter-a-automacao-de-marketing/</link>
+            <img>http://marketing-por.email/img/artigos/resultados-evolucao.jpg</img>
+            <author>ResultadosDigitais</author>
+            <description>O Email Marketing é conhecido por ser uma das melhores formas de se relacionar com clientes e contatos e que possui um altíssimo ROI (retorno sobre investimento). Por isso, essa estratégia de relacionamento vem sendo feita por muitas empresas há anos.</description>
+            <pubDate>Sep 25, 2014 09:00:00 AM</pubDate>
+        </item>
+        
+        <item>
+            <title>Listas estáticas e dinâmicas no Email Marketing: o que são e como usá-las</title>
+            <link>http://resultadosdigitais.com.br/blog/listas-estaticas-e-dinamicas-no-email-marketing-o-que-sao-e-como-usa-las/</link>
+            <img>http://marketing-por.email/img/artigos/resultados-listas.jpg</img>
+            <author>ResultadosDigitais</author>
+            <description>Uma das chaves para o sucesso de uma campanha de Email Marketing é o nível de segmentação da lista de destinatários. Com uma segmentação bem definida, os resultados das campanhas tendem a ser muito maiores, não somente nas métricas mais comuns, como taxa de abertura, cliques, etc., como também nas métricas de resultados efetivos, como taxa de conversão e vendas.</description>
+            <pubDate>Sep 25, 2014 10:00:00 AM</pubDate>
+        </item>
+        
+        <item>
+            <title>Seu blog precisa de uma estratégia de e-mail marketing</title>
+            <link>http://www.ferramentasblog.com/2014/01/seu-blog-precisa-de-uma-estrategia-de-e-mail-marketing.html</link>
+            <img>http://marketing-por.email/img/artigos/ferramentas-blog.jpg</img>
+            <author>FerramentasBlog</author>
+            <description>Uma das ferramentas de contato mais antigas da internet é o email, mas é pouco usada pelos desenvolvedores de conteúdo, blogueiros e empresas como fonte de interação eficiente com o seu público alvo. Inclusive é um eficiente mecanismo de monetização e fidelização de clientes e leitores. está na hora de você aprender como desenvolver estratégias de E-mail Marketing.</description>
+            <pubDate>Sep 25, 2014 11:00:00 AM</pubDate>
+        </item>
+        
+        <item>
+            <title>Os 8 tipos de e-mail marketing que fazem os clientes comprarem novamente na sua loja virtual.</title>
+            <link>http://www.bizrevolution.com.br/bizrevolution/2014/04/os-8-tipos-de-e-mail-marketing-que-fazem-os-clientes-comprarem-novamente-na-sua-loja-virtual.html</link>
+            <img>http://marketing-por.email/img/artigos/biz-tipos.jpg</img>
+            <author>BizRevolution</author>
+            <description>Mesmo com o advento das redes sociais, retargerting e outras novas formas de fazer marketing na internet, o velho e bom e-mail marketing continua sendo a mais poderosa ferramenta de marketing digital para converter clientes em fãs, aumentar as vendas e construir uma marca.</description>
+            <pubDate>Sep 25, 2014 12:00:00 AM</pubDate>
+        </item>
+        
+    </channel>
+</rss>
